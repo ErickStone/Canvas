@@ -1,2 +1,2 @@
-course_id, course_name, state
-2, "Operating Systems", active
+course_id,course_name,state
+2,"Operating Systems",active
