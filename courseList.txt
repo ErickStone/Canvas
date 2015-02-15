@@ -1,0 +1,2 @@
+course_id, course_name, state
+2, "Operating Systems", active

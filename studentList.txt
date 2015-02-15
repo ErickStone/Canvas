@@ -1,0 +1,2 @@
+user_id, user_name, course_id, state
+4, "Jon Doe", 2, active
